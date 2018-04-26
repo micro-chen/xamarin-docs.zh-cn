@@ -17,7 +17,8 @@ ms.lasthandoff: 04/04/2018
 
 ## <a name="platform-support"></a>平台支持
 
-默认值 Xamarin.Forms Android 项目使用通常在 Android 5.0 之前的控件 renderering 旧样式。 使用模板生成的应用程序具有`FormsApplicationActivity`作为其主要活动的基类。
+默认的 Xamarin.Forms Android 项目通常情况使用 Android 5.0 之前的控件旧样式进行渲染
+。 使用模板生成的应用程序具有`FormsApplicationActivity`作为其主要活动的基类。
 
 ## <a name="material-design-via-appcompat"></a>通过 AppCompat 材料设计
 
